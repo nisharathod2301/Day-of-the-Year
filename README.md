@@ -1,6 +1,7 @@
 # Day-of-the-Year
 Given a string date representing a Gregorian calendar date formatted as YYYY-MM-DD, return the day number of the year.
 
+https://leetcode.com/problems/day-of-the-year/
 
 Example 1:
 
